@@ -7,22 +7,22 @@ Helped family and friends to get notification of Covid Vaccination slot on Teleg
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#About code">About code</a></li>
-    <li><a href="#Good to Know">Good to Know</a></li>
+    <li><a href="#About">About code</a></li>
+    <li><a href="#Tech">Good to Know</a></li>
     <li><a href="#Configure">Configure</a></li>
-    <li><a href="#Run it">Run it</a></li>
-    <li><a href="#ScreenShots">ScreenShots</a></li>
+    <li><a href="#Run">Run it</a></li>
+    <li><a href="#Screenshots">ScreenShots</a></li>
   </ol>
 </details>
 
 
-## About code
+## About
 
 Script connects to [Cowin Public API](https://apisetu.gov.in/public/api/cowin/cowin-public-v2), using API call gets the data for vaccination sessions by PIN for 7 days, the JSON response is filtered by slot count great than zero and for ages 18+.
 
 
 
-## Good to Know
+## Tech
 
 1. Python, request module, list, dictonary
 2. API Request
@@ -51,7 +51,7 @@ sectionsDEV to alert incase on batch run, PROD actual valid slot alter to indent
 
 
 
-## Run it
+## Run
 
 1. Schedule a Cronjob
 
@@ -69,6 +69,6 @@ docker run cowin
 
 
 
-## ScreenShots:
+## Screenshots:
 
 ![Alert](images/CoWin-Notification.jpeg "")
