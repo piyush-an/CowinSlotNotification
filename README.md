@@ -7,11 +7,11 @@ Helped family and friends to get notification of Covid Vaccination slot on Teleg
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#About">About code</a></li>
-    <li><a href="#Tech">Good to Know</a></li>
+    <li><a href="#About">About</a></li>
+    <li><a href="#Tech">Tech</a></li>
     <li><a href="#Configure">Configure</a></li>
-    <li><a href="#Run">Run it</a></li>
-    <li><a href="#Screenshots">ScreenShots</a></li>
+    <li><a href="#Run">Run</a></li>
+    <li><a href="#Screenshots">Screenshots</a></li>
   </ol>
 </details>
 
