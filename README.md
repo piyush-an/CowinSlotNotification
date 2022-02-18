@@ -71,4 +71,4 @@ docker run cowin
 
 ## Screenshots:
 
-![Alert](images/CoWin-Notification.jpeg "")
+![Alert](images/CoWin-Notification.jpeg =250x250)
