@@ -71,4 +71,4 @@ docker run cowin
 
 ## Screenshots:
 
-<img src="https://github.com/Anku-22/CowinSlotNotification/blob/main/images/CoWin-Notification.jpeg"width="324" height="624">
+<img src="https://github.com/Anku-22/CowinSlotNotification/blob/main/images/CoWin-Notification.jpeg" width="324" height="624">
