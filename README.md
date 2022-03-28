@@ -18,7 +18,7 @@ Helped family and friends to get notification of Covid Vaccination slot on Teleg
 
 ## About
 
-Script connects to [Cowin Public API](https://apisetu.gov.in/public/api/cowin/cowin-public-v2), using API call gets the data for vaccination sessions by PIN for 7 days, the JSON response is filtered by slot count great than zero and for ages 18+.
+Script connects to [Cowin Public API](https://apisetu.gov.in/api/cowin/cowin-public-v2), using API call gets the data for vaccination sessions by PIN for 7 days, the JSON response is filtered by slot count great than zero and for ages 18+.
 
 
 
